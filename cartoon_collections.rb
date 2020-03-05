@@ -23,8 +23,8 @@ def long_planeteer_calls(word)
   else
     return 
     false
-    i += 1 
   end
+  i += 1
 end
 
 def find_the_cheese# code an argument here
